@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: serif;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+}
+
+#title {
+  font-size: 50px;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+#img-div {
+  padding: 10px;
+  margin: 0;
+}
+
+figure {
+  margin: 0;
+  text-align: center;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
